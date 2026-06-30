@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[cnbc.com](https://www.cnbc.com/2026/06/11/doordash-lets-customers-use-photos-prompts-to-order-food-and-book-reservations.html)",
+    "[techcrunch.com](https://techcrunch.com/2026/06/11/doordash-new-ai-chatbot-lets-you-order-with-prompts-and-photos/)",
+    "[bain.com](https://www.bain.com/insights/online-grocery-pricing-for-humans-and-bots/)",
+    "[fortune.com](https://fortune.com/2026/05/06/americans-angry-about-ai-china-uses-it-to-order-food-hail-rides/)",
+    "[consumeraffairs.com](https://www.consumeraffairs.com/news/how-googles-gemini-can-order-dinner-and-book-your-ride-022626.html)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=2.4 lines @1120px; AIDA_pass=true; bento_density=grid-auto-flow:dense verified; competitors_sweep=all six mentioned; cache_phrase_check=2+; CTA_contrast=ink/white AAA",
+  "generated_at": "2026-06-30T14:12:59.449004+00:00",
+  "headline": "Order food with AI \u2014 without babysitting delivery apps",
+  "site_brief": {
+    "audience": "people who want an AI assistant to order meals, groceries, and delivery without babysitting apps",
+    "canonical_url": "https://app.getsupers.com/use-cases/order-food-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Order food with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant order food delivery",
+      "personal AI agent order food",
+      "AI agent groceries delivery",
+      "computer use AI agent ordering food"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "order-food-with-ai",
+    "title": "Order food with AI",
+    "use_case_intent": "show how Super can coordinate food ordering across delivery apps, preferences, addresses, payment confirmation, and repeat orders"
+  },
+  "summary": "This use\u2011case page explains how Super acts as a personal AI agent that can order meals and groceries across delivery apps using real computer use. It\u2019s built for repeat orders, preferences, and confirmations \u2014 with a reusable computer-use cache that makes ongoing food workflows faster and cheaper over time."
+}
